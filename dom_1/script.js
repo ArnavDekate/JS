@@ -3,7 +3,7 @@ btn.innerText="Click Me!!";
 btn.style.backgroundColor="red";
 btn.style.color="green";
 
-document.querySelector("body").prepend(btn);
+document.querySelector("body").append(btn);
 
 
 // appending class
